@@ -1,8 +1,7 @@
-# 💫 About Me:
-👋 Hello, world!
-Just a developer on a journey of building, learning, and improving.
-🚀 Always curious, always exploring new ideas.
-💡 Open to challenges, collaborations, and anything exciting!
+# 👋 Hello, world!  
+Just a developer on a journey of building, learning, and improving.  
+🚀 Always curious, always exploring new ideas.  
+💡 Open to challenges, collaborations, and anything exciting!  
 
 
 ## 🌐 Socials:
