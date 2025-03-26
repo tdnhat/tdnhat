@@ -4,7 +4,7 @@ I'm a **21-year-old senior student** from **Da Nang, Vietnam** 🇻🇳.
 Started with a passion for **frontend**, but later got hooked on **backend** too—now I just love crafting awesome applications! 🚀  
 Currently **seeking an internship** to sharpen my skills and gain hands-on experience.  
 
-💡 Always curious, always improving. Let’s create something great!  
+💡 Always curious, always improving!
 
 
 
